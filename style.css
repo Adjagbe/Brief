@@ -1,0 +1,189 @@
+body{
+    font-family: sans-serif;
+}
+
+
+
+.fond1{
+    background:linear-gradient(90deg, #412184, #8E8CD1, #8E8CD1,#33b2bb );
+    width: 970px;
+    margin-left: 170px;
+   
+}
+
+.bloc1{
+    background-color: #2D3352;
+
+    width: 300px;
+    border-top-left-radius: 20px;
+    border-end-start-radius: 20px;
+    height: 660px;
+    padding-top: 20px;
+    margin-left: 10px;
+}
+
+
+.rond1{
+    background-color: #57C355;
+  margin-left: 25px;
+  width: 50px;
+  height: 50px;
+  
+		border-radius: 50%;
+        margin-bottom:10px; 
+        margin-top: 10px;
+
+        
+
+}
+
+.rond2,.rond3{
+    background-color: #D9D9D9;
+    margin-left: 25px;
+    width: 50px;
+    height: 50px;
+    
+          border-radius: 50%; 
+          margin-bottom: 10px; 
+          margin-top: 20px;
+  
+}
+
+.un{
+    padding-left: 13px;
+    padding-top: 12px;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.une{
+    padding-left: 13px;
+    padding-top: 12px;
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+}
+
+hr{
+    border-color: rgb(165, 165, 165);
+}
+
+
+.fond2{
+    background-color: white;
+    width: 640px;
+    height: 680px;
+    border-top-right-radius: 20px;
+     border-end-end-radius: 20px;
+}
+
+.text1{
+    text-align: center;
+padding-top: 20px;
+}
+
+.text2{
+    text-align: center;
+}
+
+.title1{
+    color: rgb(236, 230, 230);
+    font-size: 18px;
+    padding-left: 8px;
+    padding-top: 20px;
+}
+
+.title2{
+    color: rgb(236, 230, 230);
+    font-size: 18px;
+    padding-left: 8px;
+    padding-top: 30px;
+}
+
+.title3{
+    color: rgb(236, 230, 230);
+    font-size: 18px;
+    padding-left: 8px;
+    padding-top: 30px;
+}
+
+
+
+.first,.last{
+    width: 185px;
+   border: none;
+   height: 28px;
+   outline: none;
+}
+
+.las,.firs{
+    width: 185px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    margin-right: 7px;
+}
+
+
+
+fieldset{
+    font-weight: bold;
+    border: 1px solid rgb(207, 205, 205);
+}
+
+
+.las{
+   margin-left: 35px;
+   
+}
+
+.mai,.te{
+width: 450px;
+margin-bottom: 20px;
+
+}
+
+.rue{
+    font-size: 19px;
+   text-align: left;
+   padding-left: 82px;
+}
+.mail,.tel{
+    border:none;
+    width: 450px;
+    outline: none;
+}
+
+.mois{
+    width: 100px;
+    height: 43px;
+    margin-right: 175px;
+    margin-left: 15px;
+    border: 1px solid rgb(207, 205, 205);
+
+}
+
+
+.moi{
+    width: 90px;
+    height: 43px;
+    margin-left: 15px;
+    border: 1px solid rgb(207, 205, 205);
+    
+}
+
+.SSN{
+    width: 480px;  
+    margin-top: 25px;
+    height: 43px;
+    border: 1px solid rgb(207, 205, 205);
+}
+
+.rond4{
+    background-color: #57C355;
+    width:60px;
+  height: 60px;
+  
+		border-radius: 50%;
+        margin-top: 30px;
+     margin-left: 430px;
+}
